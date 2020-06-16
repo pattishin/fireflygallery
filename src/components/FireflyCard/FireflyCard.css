@@ -1,0 +1,63 @@
+.FireflyGallery-card {
+  display: inline-flex;
+  flex-direction: column;
+  border-radius: 3px;
+  overflow: hidden;
+  box-shadow: 0 1px 2px 0 rgba(0, 0, 0, 0.25);
+  margin-bottom: 10px;
+}
+
+.FireflyGallery-image {
+  background-color: #ccc;
+  border: 1px solid #c0c0c0;
+}
+
+.FireflyGallery-card-wrapper {
+  display: inline-flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: center;
+  margin: 10px;
+}
+
+.FireflyGallery-card-circle {
+  border-radius: 35px;
+  display: inline-flex;
+  width: 30px;
+  min-width: 30px;
+  height: 30px;
+  background-color: #ff5263;
+  margin-right: 10px;
+}
+
+.FireflyGallery-card-info {
+  display: inline-flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: baseline;
+  text-align: left;
+  width: 100%;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.FireflyGallery-card-info-title {
+  color: black;
+  font-weight: 400;
+  margin: 0 0 3px 0;
+  width: 100%;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.FireflyGallery-card-info-description {
+  color: grey;
+  font-size: 11px;
+  margin: 0;
+  width: 100%;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}

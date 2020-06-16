@@ -1,0 +1,9 @@
+body {
+  background: #f6f8f9;
+  font-family: Helvetica, Arial, sans-serif;
+  font-size: 13px;
+  margin: 20px;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
