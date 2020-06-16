@@ -1,7 +1,8 @@
 # Firefly Gallery UI
+
 Test project to play with image aspect ratio relative to bounds of gallery list and other images.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Bootstrap:  [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
